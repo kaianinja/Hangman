@@ -1,7 +1,6 @@
 #HANGMAN
 #Step 1
 import random
-
 stages = ['''
   +---+
   |   |
